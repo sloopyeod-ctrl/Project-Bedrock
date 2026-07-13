@@ -1,200 +1,113 @@
-# Project Bedrock
+Welcome.
 
-## Engineering Notebook of Marvin G. Dewitt
+I'm Marvin Dewitt.
 
-Project Bedrock is the public engineering record behind my professional growth, security engineering work, technical philosophy, and long-term development of systems designed to make security teams more effective.
+I'm a Security Systems Engineer.
 
-This repository serves as a single source of truth for the systems I have built, the problems I have solved, the lessons I have learned, and the engineering principles that guide my work.
+I build systems that reduce unnecessary complexity so security engineers can spend more time protecting infrastructure and less time managing technology.
 
-## Mission
+Throughout my career—from serving over twenty-two years as a U.S. Army Explosive Ordnance Disposal technician to engineering cloud security, identity governance, Linux infrastructure, and detection capabilities—I've been driven by one simple belief:
 
-**Engineer systems that enable security professionals to spend more time protecting infrastructure and less time managing technology.**
-
-Security engineers should not spend most of their day navigating disconnected tools, repeating manual tasks, collecting information, or rebuilding processes that should already exist.
-
-My goal is to design secure, scalable systems that reduce operational friction, provide meaningful context, automate repetitive work, and improve the quality and speed of security decisions.
-
-## Engineering Philosophy
-
-I have always measured success by a simple principle:
-
-> **Leave every system better than you found it.**
-
-Throughout my career, I have challenged inefficient processes rather than accepting them simply because “that is how we have always done it.”
-
-I believe:
-
-* Automation should replace unnecessary repetition.
-* Documentation should replace tribal knowledge.
-* Context should replace noise.
-* Engineering should replace recurring manual work whenever possible.
-* Security should enable people rather than create unnecessary friction.
-* Every project should leave the next engineer standing on stronger ground.
-
-## Current Engineering Focus
-
-My current work centers on:
-
-* Security systems engineering
-* Cloud and infrastructure security
-* Detection engineering
-* Identity engineering
-* Linux hardening and automation
-* Vulnerability management
-* Security observability
-* AI-assisted security operations
-* Threat intelligence correlation
-* Analyst workflow automation
-
-## Featured Platform
-
-### Unified Security Operations Platform — USOP
-
-USOP is an evolving Security Decision Intelligence Platform designed to give security engineers their time back.
-
-The platform is being developed to reduce the amount of manual investigation, correlation, and administrative work required to make high-quality security decisions.
-
-Current and planned capabilities include:
-
-* Microsoft Entra identity synchronization
-* Identity and role normalization
-* Privileged-access analysis
-* Relationship and attack-path visualization
-* Security decision intelligence
-* Infrastructure and asset correlation
-* Vulnerability prioritization
-* AI-assisted investigation workflows
-* Threat intelligence correlation
-* Detection engineering recommendations
-* Analyst documentation and evidence capture
-
-USOP is not intended to become another dashboard, vulnerability scanner, or source of alerts.
-
-Its purpose is to help security teams understand:
-
-* What matters
-* Why it matters
-* Which systems are affected
-* What protections already exist
-* What action should be taken next
-
-## Systems and Capabilities
-
-Project Bedrock will document work across several engineering domains.
-
-### Detection Engineering
-
-* Microsoft Sentinel
-* Kusto Query Language
-* Threat hunting
-* Analytics rules
-* Investigation workflows
-* Security dashboards
-* MITRE ATT&CK-aligned monitoring
-
-### Identity Engineering
-
-* Microsoft Entra ID
-* Identity governance
-* RBAC
-* Privileged access
-* Service-account lifecycle management
-* Microsoft Graph integrations
-* Identity synchronization and normalization
-
-### Infrastructure Security
-
-* Microsoft Azure
-* Amazon Web Services
-* Ubuntu Linux
-* FIPS and STIG hardening
-* Networking
-* Containers
-* Secure configuration management
-* Infrastructure automation
-
-### Security Automation
-
-* Python
-* PowerShell
-* Bash
-* Ansible
-* REST APIs
-* Microsoft Graph
-* Workflow automation
-* AI-assisted engineering
-
-### Vulnerability Engineering
-
-* Tenable
-* Remediation prioritization
-* Infrastructure ownership workflows
-* Vulnerability reporting
-* Security baselines
-* Container lifecycle improvement
-* Risk-informed remediation
-
-## Repository Roadmap
-
-Project Bedrock will grow into a structured engineering portfolio containing:
-
-* Professional engineering identity
-* Master resume source material
-* Technical case studies
-* USOP architecture and roadmap
-* Detection engineering examples
-* Infrastructure automation
-* Identity engineering documentation
-* Linux hardening lessons
-* Security engineering articles
-* Interview and STAR story inventory
-* Technical lessons learned
-* Future research and product concepts
-
-## Guiding Principles
-
-### Build on Bedrock
-
-Temporary fixes, undocumented processes, disconnected tools, and tribal knowledge create organizational sand.
-
-Strong engineering replaces that sand with automation, documentation, repeatable workflows, secure architecture, and systems that support continuous improvement.
-
-### Engineer Systems, Not Tasks
-
-The goal is not to complete the same operational task faster.
-
-The goal is to engineer the task out of the workflow whenever practical.
-
-### Provide Context, Not Noise
-
-Security teams rarely need more alerts.
-
-They need better information about which risks affect their environment and what action deserves priority.
-
-### Engineer for the Next Person
-
-A successful system should make the next engineer more effective, not force them to rediscover the same lessons.
-
-### Truth Before Ego
-
-This repository will document work honestly.
-
-The purpose is not to claim credit for everything around me. It is to accurately preserve the systems, improvements, and technical contributions that would otherwise be lost.
-
-## About Me
-
-I am a Security Engineer and retired U.S. Army Master Sergeant with more than 22 years of experience leading technical teams and solving complex problems in high-consequence environments.
-
-My current engineering experience includes cloud security, identity governance, Microsoft Sentinel, Linux hardening, vulnerability management, infrastructure automation, security documentation, and the development of AI-assisted security operations capabilities.
-
-Across military service, enterprise security engineering, and the development of USOP, the common thread has remained the same:
-
-> **Reduce unnecessary complexity, strengthen the system, and leave the organization better prepared than it was before.**
-
----
-
-**Build on bedrock.
 Leave every system better than you found it.
-Engineer for the next person.**
-# Project-Bedrock
-Engineering Notebook
+
+That belief eventually led me to create Project Bedrock.
+
+Why Project Bedrock Exists
+
+Most engineers maintain systems.
+
+Some improve systems.
+
+I want to build systems that continue improving long after I'm gone.
+
+Project Bedrock documents that journey.
+
+It is my engineering notebook, professional portfolio, architectural journal, and long-term record of the systems I build, the lessons I learn, and the philosophy that guides my work.
+
+This repository is not intended to showcase everything I know.
+
+It exists to document how I think.
+
+What I Believe
+
+I believe security engineers deserve better tools.
+
+I believe automation should replace repetitive work.
+
+I believe documentation should outlive the people who write it.
+
+I believe engineering should remove friction—not create it.
+
+I believe context is more valuable than additional alerts.
+
+And I believe the best engineers leave behind foundations that make everyone around them more effective.
+
+What I'm Building
+
+Today my primary engineering effort is the Unified Security Operations Platform (USOP).
+
+USOP is being designed as an AI-assisted Security Decision Intelligence Platform that helps security teams understand:
+
+What matters
+Why it matters
+Which systems are affected
+What protections already exist
+What should happen next
+
+Instead of creating another dashboard, scanner, or SIEM, my goal is to reduce the amount of time security engineers spend collecting information so they can spend more time reducing risk.
+
+Why I Share My Work
+
+One of the greatest lessons I learned during my military career is that knowledge only creates lasting value when it can be passed to the next person.
+
+Too much engineering knowledge disappears when people leave organizations.
+
+I don't want that to happen.
+
+Everything I publish here is intended to help future engineers build stronger systems, ask better questions, and continue improving the profession we all share.
+
+Engineering Principles
+
+Everything I build is guided by five principles:
+
+Engineer systems—not tasks.
+Automate repetitive work whenever practical.
+Challenge inefficient processes.
+Leave every system better than you found it.
+Give security engineers their time back.
+
+If a project doesn't support those principles, it probably doesn't belong here.
+
+Looking Forward
+
+Project Bedrock is only the beginning.
+
+Over time this repository will grow to include:
+
+Engineering case studies
+Security architecture decisions
+Detection engineering
+Identity engineering
+Linux hardening
+Cloud security
+Infrastructure automation
+Technical articles
+USOP design decisions
+Lessons learned
+Future research
+
+Every commit represents another step in my journey as an engineer.
+
+Thank You
+
+If you've taken the time to read this, thank you.
+
+Whether you're a recruiter, an engineer, a future teammate, or simply someone interested in security engineering, I hope you find something here that helps you build stronger systems than the ones that came before.
+
+Because that's ultimately why I'm here.
+
+Build on bedrock.
+
+Leave every system better than you found it.
+
+Engineer for the next person.
