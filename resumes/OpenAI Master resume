@@ -1,53 +1,38 @@
 MARVIN G. DEWITT
-
 Security Engineer
 Infrastructure Security • Detection Engineering • Identity Engineering • Security Automation • AI-Assisted Security Operations
 Land O' Lakes, FL | MGeoffDewitt@gmail.com | linkedin.com/in/marvin-dewitt-39412489
 Active TS/SCI Clearance
+EXECUTIVE PROFILE
+Security Engineer focused on designing infrastructure, identity, detection, and automation capabilities that reduce operational complexity and improve engineering decision-making across cloud environments.
 
-Executive Profile
+Throughout my career I have consistently replaced repetitive operational work with scalable engineering systems. My experience spans Microsoft Sentinel detection engineering, Microsoft Entra identity governance, Linux security engineering, Azure and AWS infrastructure, vulnerability engineering, and security automation using Python, PowerShell, Microsoft Graph, REST APIs, and Ansible.
 
-Security Engineer focused on building infrastructure, identity, detection, and automation capabilities that reduce operational complexity and improve engineering decision-making. Following more than twenty-one years as a U.S. Army Explosive Ordnance Disposal professional, I transitioned the same disciplined approach into enterprise security engineering across Microsoft Sentinel, Microsoft Entra, Azure, AWS, Linux, and automation. Founder and principal engineer of the Unified Security Operations Platform (USOP), an AI-assisted security engineering platform focused on improving security decision quality.
+I am the Founder and Principal Engineer of the Unified Security Operations Platform (USOP), an AI-assisted security engineering platform designed to improve security decision quality by correlating identity, infrastructure, vulnerabilities, and operational context into actionable engineering intelligence.
 
-Engineering Highlights
-
-Engineered Microsoft Sentinel detection capabilities including 27+ analytics rules and investigation workflows.
-
-Architected Microsoft Entra identity governance including RBAC, privileged access, and Microsoft Graph automation.
-
-Designed Ubuntu FIPS/STIG Linux security baselines and repeatable hardening standards.
-
-Developed Python, PowerShell, REST API, Microsoft Graph, and Ansible automation.
-
-Founder and Principal Engineer of USOP, applying systems thinking to AI-assisted security engineering.
-
-Engineering Experience
-
+I believe the best security engineers build systems that allow other engineers to spend more time solving meaningful security problems and less time gathering information.
+ENGINEERING HIGHLIGHTS
+•	Infrastructure Engineering: Designed secure Azure and AWS security capabilities through Linux engineering, identity governance, automation, and secure-by-design architecture.
+•	Detection Engineering: Engineered Microsoft Sentinel capabilities including 27+ analytics rules, hunting queries, dashboards, and investigation workflows improving visibility across cloud infrastructure, Linux systems, and enterprise identity.
+•	Identity Engineering: Architected Microsoft Entra identity governance supporting RBAC, privileged access, Microsoft Graph automation, and service account lifecycle management.
+•	Security Automation: Developed Python, PowerShell, Microsoft Graph, REST APIs, and Ansible automation eliminating repetitive engineering effort while improving consistency and scalability.
+•	AI-Assisted Security Engineering: Designed and continue developing USOP to improve security decision-making through contextual intelligence, automation, and systems thinking.
+ENGINEERING EXPERIENCE
 Security Engineer
-
-Engineered enterprise cloud security capabilities across Azure and AWS.
-
-Designed detection engineering improving visibility across infrastructure and identity.
-
-Built automation-first engineering workflows reducing repetitive operational effort.
-
-Authored engineering standards and documentation supporting long-term scalability.
-
-Technical Decision Making
-
-21 years and 3 months active duty; retired as Master Sergeant after serving as First Sergeant.
-
-Responded to approximately 217 real-world explosive incidents with deployments to Iraq and Afghanistan.
-
-Produced COMTECHREP-B technical intelligence reports and served as TEDAC intake technician supporting FBI and ATF technical exploitation.
-
-Supported U.S. Secret Service protective missions for senior U.S. leaders and foreign dignitaries.
-
-Featured Engineering Platform
-
-Unified Security Operations Platform (USOP): AI-assisted security engineering platform designed to improve security decision-making through contextual intelligence.
-
-Education & Certifications
-
+•	Engineered enterprise cloud security capabilities across Azure and AWS supporting highly regulated environments.
+•	Designed Microsoft Sentinel detection capabilities improving visibility across cloud infrastructure, authentication, Linux systems, and privileged identities.
+•	Architected Microsoft Entra identity governance including RBAC, privileged access, Microsoft Graph automation, and service account lifecycle management.
+•	Designed Ubuntu FIPS/STIG baselines and repeatable Linux hardening standards.
+•	Automated engineering workflows using Python, PowerShell, REST APIs, Microsoft Graph, and Ansible.
+•	Integrated vulnerability management into engineering processes to improve remediation prioritization and operational consistency.
+TECHNICAL DECISION MAKING
+•	Retired U.S. Army Master Sergeant after 21 years and 3 months of active service, including three years as a First Sergeant.
+•	Responded to approximately 217 real-world explosive incidents with deployments to Iraq and Afghanistan, making disciplined technical decisions in high-consequence environments.
+•	Produced COMTECHREP-B technical intelligence reports and served as TEDAC Intake Technician supporting multidisciplinary exploitation with FBI and ATF personnel.
+•	Supported U.S. Secret Service protective missions for Presidential, Vice Presidential, Secretary of State, United Nations, and foreign dignitary operations.
+FEATURED ENGINEERING PLATFORM
+Founder & Principal Engineer – Unified Security Operations Platform (USOP)
+Designing an AI-assisted security engineering platform that correlates identity, infrastructure, vulnerabilities, security telemetry, and operational context into actionable engineering intelligence. Built to reduce analyst workload, improve decision quality, and enable security teams to focus on higher-value engineering work.
+EDUCATION & CERTIFICATIONS
 Applied Bachelor's Degree – Computer Information Systems (Cloud Computing)
 CompTIA Security+ | CompTIA A+ | CompTIA ITF+
